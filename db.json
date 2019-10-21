@@ -1,5 +1,6 @@
 {
-  "results":[
+  "results": [
+    {
   "userIdFirst": John,
   "userIdLast": Smith,
   "userEmail": johnsmith@email.com,
@@ -9,5 +10,6 @@
   "id": 1,
   "title": "I am a placeholder",
   "completed": false
+    }
     ]
 }
